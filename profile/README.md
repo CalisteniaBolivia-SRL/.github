@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[Link a la wiki](https://github.com/CalisteniaBolivia-SRL/.github/wiki)
 <!--
 
 **Here are some ideas to get you started:**
